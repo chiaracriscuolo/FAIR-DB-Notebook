@@ -1,6 +1,10 @@
 # FAIR-DB-Notebook
 Python notebooks of FAIR-DB system (a framework to detect biases and discover discrimination in datasets) with two input datasets (Titanic and Adult Census U.S.) The python notebooks present FAIR-DB workflow applied to one dataset at a time. Try with your own dataset and input parameters to discover bias and unfairness in your custom dataset!
 
+# FAIR-DB WebApp
+
+If you want to try the only version this is the website URL: https://fair-db.herokuapp.com/
+
 ## Paper Abstract
 Computers and algorithms have become essential tools that pervade all aspects of our daily lives; this technology is based on data and, for it to be reliable, we have to make sure that the data on which it is based on is fair and without bias. In this context, Fairness has become a relevant topic of discussion within the field of Data Science Ethics, and in general in Data Science. Today’s applications should therefore be associated with tools to discover bias in data, in order to avoid (possibly unintentional) unethical behavior and consequences; as a result, technologies that accurately discover discrimination and bias in
 databases are of paramount importance.
