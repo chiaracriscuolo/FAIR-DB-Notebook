@@ -5,6 +5,8 @@ Python notebooks of FAIR-DB system (a framework to detect biases and discover di
 
 If you want to try the only version this is the website URL: https://fair-db.herokuapp.com/
 
+FAIR-DB WebApp repository: https://github.com/chiaracriscuolo/FAIR-DB
+
 ## Paper Abstract
 Computers and algorithms have become essential tools that pervade all aspects of our daily lives; this technology is based on data and, for it to be reliable, we have to make sure that the data on which it is based on is fair and without bias. In this context, Fairness has become a relevant topic of discussion within the field of Data Science Ethics, and in general in Data Science. Today’s applications should therefore be associated with tools to discover bias in data, in order to avoid (possibly unintentional) unethical behavior and consequences; as a result, technologies that accurately discover discrimination and bias in
 databases are of paramount importance.
